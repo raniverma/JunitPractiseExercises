@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e148b656-a435-407c-94a3-23a5687e4ab9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ6Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ7Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenexamplePE1/src/main/java/com/stackroute/pe1/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mavenexamplePE1/src/test/java/UnitTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstAssignment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PE2/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ1Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ2Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ6Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ7Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ8.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1279" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="practise1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PE1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE1" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="practise1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545297439790" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jar_files/junit-4.12.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.practise1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/stackroute/practise1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.practiseQ10Test">
+    <configuration name="practiseQ10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ10Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiseQ6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ6Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiseQ7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ7Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiseQ8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ8Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="practiseQ9Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ9Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.practiseQ10Test" />
+        <item itemvalue="JUnit.practiseQ9Test" />
+        <item itemvalue="JUnit.practiseQ8Test" />
+        <item itemvalue="JUnit.practiseQ7Test" />
+        <item itemvalue="JUnit.practiseQ6Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e148b656-a435-407c-94a3-23a5687e4ab9" name="Default Changelist" comment="" />
+      <created>1545283137634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545283137634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="practiseQ6Test - 2018.12.20 at 13h 55m 26s.xml">
+      <configuration name="practiseQ6Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ7Test - 2018.12.20 at 14h 04m 10s.xml">
+      <configuration name="practiseQ7Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ7Test - 2018.12.20 at 14h 05m 35s.xml">
+      <configuration name="practiseQ7Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ8Test - 2018.12.20 at 14h 30m 43s.xml">
+      <configuration name="practiseQ8Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ9Test - 2018.12.20 at 14h 34m 40s.xml">
+      <configuration name="practiseQ9Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 14h 43m 57s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 14h 45m 01s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 14h 46m 11s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 14h 46m 30s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 14h 46m 57s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21069433" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32899022" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35993487" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.21069433" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32899022" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.23941368" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="38" column="59" lean-forward="true" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>PE1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
