@@ -5,12 +5,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class practiseQ3Test {
-    practiseQ3 obj;
+public class checkEachCharTypeTest {
+    CheckEachCharType obj;
 
     @Before
     public void create(){
-        obj=new practiseQ3();
+        obj=new CheckEachCharType();
     }
 
     @Test

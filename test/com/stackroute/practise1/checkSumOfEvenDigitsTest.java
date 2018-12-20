@@ -5,11 +5,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class practiseQ7Test {
-    practiseQ7 obj;
+public class checkSumOfEvenDigitsTest {
+    CheckSumOfEvenDigits obj;
     @Before
     public void setUp() throws Exception {
-        obj=new practiseQ7();
+        obj=new CheckSumOfEvenDigits();
     }
 
     @Test

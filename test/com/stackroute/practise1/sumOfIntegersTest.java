@@ -5,12 +5,12 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class practiseQ5Test {
-    practiseQ5 obj;
+public class sumOfIntegersTest {
+    SumOfIntegers obj;
 
     @Before
     public void create(){
-        obj=new practiseQ5();
+        obj=new SumOfIntegers();
     }
 
     @Test

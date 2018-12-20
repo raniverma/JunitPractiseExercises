@@ -5,11 +5,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class practiseQ6Test {
-    practiseQ6 obj;
+public class checkCharTest {
+    CheckChar obj;
     @Before
     public void setUp() throws Exception {
-        obj=new practiseQ6();
+        obj=new CheckChar();
     }
 
     @Test

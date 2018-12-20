@@ -5,11 +5,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class practiseQ10Test {
-    practiseQ10 obj;
+public class repeatStringTest {
+    RepeatString obj;
     @Before
     public void setUp() throws Exception {
-        obj=new practiseQ10();
+        obj=new RepeatString();
     }
 
     @Test

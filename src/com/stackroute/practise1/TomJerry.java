@@ -2,14 +2,14 @@ package com.stackroute.practise1;
 
 import java.util.Scanner;
 
-public class practiseQ2{
+public class TomJerry {
 
     public static void main(String aregs[]){
 
         Scanner sc=new Scanner(System.in);
 
         int n=sc.nextInt();
-        practiseQ2 obj=new practiseQ2();
+        TomJerry obj=new TomJerry();
         String ans=obj.tomJerry(n);
         System.out.println(ans);
     }

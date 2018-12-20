@@ -2,11 +2,11 @@ package com.stackroute.practise1;
 
 import java.util.*;
 
-public class practiseQ1 {
+public class Palindrome {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         String str=sc.nextLine();
-        practiseQ1 obj=new practiseQ1();
+        Palindrome obj=new Palindrome();
         boolean ans=obj.palindrome(str);
 
     }

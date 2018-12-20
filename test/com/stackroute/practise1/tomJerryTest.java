@@ -5,12 +5,12 @@ import org.junit.Before;
 
 import static org.junit.Assert.*;
 
-public class practiseQ2Test {
-    practiseQ2 obj;
+public class tomJerryTest {
+    TomJerry obj;
 
     @Before
     public void create(){
-        obj=new practiseQ2();
+        obj=new TomJerry();
     }
 
     @Test

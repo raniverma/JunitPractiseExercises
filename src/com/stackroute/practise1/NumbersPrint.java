@@ -2,7 +2,7 @@ package com.stackroute.practise1;
 
 import java.util.Scanner;
 
-public class practiseQ4 {
+public class NumbersPrint {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
 

@@ -5,11 +5,11 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class practiseQ9Test {
-    practiseQ9 obj;
+public class reverseStringTest {
+    ReverseString obj;
     @Before
     public void setUp() throws Exception {
-        obj=new practiseQ9();
+        obj=new ReverseString();
     }
 
     @Test

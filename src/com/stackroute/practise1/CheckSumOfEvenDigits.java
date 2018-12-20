@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Scanner;
 import java.lang.Integer;
 
-public class practiseQ7 {
+public class CheckSumOfEvenDigits {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
 

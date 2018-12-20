@@ -2,43 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e148b656-a435-407c-94a3-23a5687e4ab9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ6Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PE2/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mavenexamplePE1/src/main/java/com/stackroute/pe1/Add.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mavenexamplePE1/src/test/java/UnitTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstAssignment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/FirstAssignment/com/stackroute/practise1/practiseQ9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/TomJerry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/CheckEachCharType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/NumbersPrint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/stackroute/practise1/SumOfIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ1Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/palindromeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/tomJerryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/checkEachCharTypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/numbersPrintTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/stackroute/practise1/sumOfIntegersTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PE2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PE2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE2/out/production/PE2/com/stackroute/pe2/Folder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../PE2/out/production/PE2/com/stackroute/pe2/Folder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE2/out/production/PE2/com/stackroute/pe2/practiseQ1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE2/out/production/PE2/com/stackroute/pe2/practiseQ2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE2/src/com/stackroute/pe2/practiseQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PE2/src/com/stackroute/pe2/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PE2/src/com/stackroute/pe2/practiseQ2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PE2/src/com/stackroute/pe2/PowerOfFour.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,72 +32,39 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ9.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            <state relative-caret-position="18">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/SumOfIntegers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/TomJerry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="38" />
+            <state relative-caret-position="144">
+              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/NumbersPrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -128,7 +79,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -140,7 +91,6 @@
         <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java" />
         <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java" />
         <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java" />
-        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java" />
         <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ6.java" />
         <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java" />
         <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ6Test.java" />
@@ -152,6 +102,13 @@
         <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ10.java" />
         <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java" />
         <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java" />
+        <option value="$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/Palindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/TomJerry.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/CheckEachCharType.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/NumbersPrint.java" />
+        <option value="$PROJECT_DIR$/src/com/stackroute/practise1/SumOfIntegers.java" />
       </list>
     </option>
   </component>
@@ -167,6 +124,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,18 +149,10 @@
               <item name="PE1" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="PE1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PE1" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="practise1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,10 +160,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545297439790" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545303731308" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jar_files/junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -240,8 +191,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.practiseQ10Test">
-    <configuration name="practiseQ10Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in PE1">
+    <configuration name="All in PE1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE1" />
       <extension name="coverage">
         <pattern>
@@ -250,12 +214,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ10Test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.checkCharTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiseQ6Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="checkSumOfEvenDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE1" />
       <extension name="coverage">
         <pattern>
@@ -264,12 +228,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ6Test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.checkSumOfEvenDigitsTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiseQ7Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="repeatStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE1" />
       <extension name="coverage">
         <pattern>
@@ -278,12 +242,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ7Test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.repeatStringTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiseQ8Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="reverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE1" />
       <extension name="coverage">
         <pattern>
@@ -292,12 +256,12 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ8Test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.reverseStringTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiseQ9Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="searchTargetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE1" />
       <extension name="coverage">
         <pattern>
@@ -306,18 +270,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.practise1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.practiseQ9Test" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.practise1.searchTargetTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.All in PE1" />
+      <item itemvalue="JUnit.checkCharTest" />
+      <item itemvalue="JUnit.checkSumOfEvenDigitsTest" />
+      <item itemvalue="JUnit.searchTargetTest" />
+      <item itemvalue="JUnit.reverseStringTest" />
+      <item itemvalue="JUnit.repeatStringTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.practiseQ10Test" />
-        <item itemvalue="JUnit.practiseQ9Test" />
-        <item itemvalue="JUnit.practiseQ8Test" />
-        <item itemvalue="JUnit.practiseQ7Test" />
-        <item itemvalue="JUnit.practiseQ6Test" />
+        <item itemvalue="JUnit.repeatStringTest" />
+        <item itemvalue="JUnit.reverseStringTest" />
+        <item itemvalue="JUnit.searchTargetTest" />
+        <item itemvalue="JUnit.checkSumOfEvenDigitsTest" />
+        <item itemvalue="JUnit.checkCharTest" />
       </list>
     </recent_temporary>
   </component>
@@ -335,15 +307,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="practiseQ6Test - 2018.12.20 at 13h 55m 26s.xml">
-      <configuration name="practiseQ6Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="practiseQ7Test - 2018.12.20 at 14h 04m 10s.xml">
-      <configuration name="practiseQ7Test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="practiseQ7Test - 2018.12.20 at 14h 05m 35s.xml">
-      <configuration name="practiseQ7Test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="practiseQ8Test - 2018.12.20 at 14h 30m 43s.xml">
       <configuration name="practiseQ8Test" configurationId="JUnit" />
     </history-entry>
@@ -365,37 +328,46 @@
     <history-entry file="practiseQ10Test - 2018.12.20 at 14h 46m 57s.xml">
       <configuration name="practiseQ10Test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 14h 47m 21s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="practiseQ10Test - 2018.12.20 at 15h 12m 53s.xml">
+      <configuration name="practiseQ10Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_PE1 - 2018.12.20 at 15h 31m 10s.xml">
+      <configuration name="All in PE1" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21069433" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21388668" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32899022" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35993487" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35993487" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -427,24 +399,7 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ3Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/checkEachCharTypeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="19" column="61" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="61" />
@@ -456,33 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="28" column="4" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ5Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ4Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/numbersPrintTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="59" />
@@ -499,37 +428,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ2Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/tomJerryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -557,10 +459,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+          <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -578,20 +480,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ9Test.java">
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ8Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="18" selection-end-column="38" />
+          <caret line="18" column="38" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/practiseQ7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/palindromeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/practiseQ10Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        <state relative-caret-position="324">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/stackroute/practise1/sumOfIntegersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/TomJerry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/CheckEachCharType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/NumbersPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/stackroute/practise1/SumOfIntegers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
